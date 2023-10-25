@@ -4,7 +4,7 @@ Realiza las siguiente actividad y sube la carpeta resultante como un zip a la ta
 
 ## **1. Imita las siguientes tablas**
 
-* Por cada imagen que se contiene en este repositorio, (imgtabla1.html, imgtabla2.html ...) crea un documento html (tabla1.html, tabla2.html ...) creando estas tablas en html con las etiquetas oportunas.
+* Por cada imagen que se contiene en este repositorio, (imgtabla1.png, imgtabla2.png ...) crea un documento html (tabla1.html, tabla2.html ...) creando estas tablas en html con las etiquetas oportunas.
   
 ## **2. Crea una tabla que cumpla los siguientes requisitos:**
 
