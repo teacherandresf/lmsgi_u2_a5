@@ -10,5 +10,5 @@ Realiza las siguiente actividad y sube la carpeta resultante como un zip a la ta
 
 * La tabla que vamos a crear es el horario de clase para 1DAM
 * Vamos a tener 6 columnas cuya cabecera es: Horas, Lunes, Martes, Miércoles, Jueves y Viernes
-* Cada fila se corresponderá con un tramo horario con la particularidad de que una celda se corresponde con un hueco de 30 min (que se corresponde con el correo), por tanto dos celdas agrupadas por filas serán un hueco de 1 hora, y 4 celdas agrupadas por fila serán huecos de 2 horas.
+* Cada fila se corresponderá con un tramo horario con la particularidad de que una celda se corresponde con un hueco de 30 min (que se corresponde con el recreo), por tanto dos celdas agrupadas por filas serán un hueco de 1 hora, y 4 celdas agrupadas por fila serán huecos de 2 horas.
 * Ponle bordes (atributo en la etiqueta table border="1")
